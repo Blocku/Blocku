@@ -2,9 +2,9 @@
 I’m @Blocku beginner frontend developer
 
 ### Technologies:
-#### - Javascript / Typescript
-#### - React
-#### - Next js
+##### - Javascript / Typescript
+##### - React
+##### - Next js
 
 
 
